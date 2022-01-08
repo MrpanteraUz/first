@@ -1,0 +1,43 @@
+body{
+height: 5000px;
+}
+.pult{
+    height: 100px;
+    background: dodgerblue;
+    border: 1px solid red;
+
+    }
+
+    .pults{
+        height: 40px;
+        border: 1px solid rgb(255, 0, 221);
+    
+        }
+        .carousel-item img{
+            height: 600px;
+            object-fit: cover;
+        }
+
+        .row4 img{
+            height: 400px;
+            object-fit: contain;
+
+        }
+        .row4{
+            height: 400px;
+            object-fit: contain;
+
+        }
+
+        .colum img {
+            height: 300px;
+            object-fit: cover;
+        }
+
+        .rowpen img{
+            width: 550px;
+            height: 300px;
+            object-fit: cover;
+        }
+
+        
