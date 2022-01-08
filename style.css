@@ -1,6 +1,6 @@
-body{
+/* body{
 height: 5000px;
-}
+} */
 .pult{
     height: 100px;
     background: dodgerblue;
@@ -40,4 +40,13 @@ height: 5000px;
             object-fit: cover;
         }
 
-        
+        .footer_end {
+            height: 250px;
+            color: darkgrey;
+        }
+
+        .footer_end .headingg{
+           font-size: 40px;
+        }
+
+
